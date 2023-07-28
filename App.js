@@ -3,7 +3,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { Button, Text, View } from 'react-native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
-import HomeScreen from './features/home/HomeScreen';
+import HomeScreen from './src/features/home/HomeScreen';
 
 const Stack = createNativeStackNavigator();
 
