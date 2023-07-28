@@ -3,7 +3,8 @@
     "baseUrl": ".",
     "paths": {
       "~assets/*": ["assets/*"],
-      "~lib/*": ["src/lib/*"]
+      "~lib/*": ["src/lib/*"],
+      "~const/*": ["src/const/*"]
     }
   }
 }
